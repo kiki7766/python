@@ -15,6 +15,6 @@ two_digit_number = input()
 # 🚨 Don't change the code above 👆
 ####################################
 # Write your code below this line 👇
-change = str(two_digit_number)
-print(int(change[0]) + int(change[1]))
+# change = str(two_digit_number)
+print(int(two_digit_number[0]) + int(two_digit_number[1]))
 
