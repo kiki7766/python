@@ -21,3 +21,5 @@ total = (bill/people) * (1 + (tip/100))
 total = format(total, ".2f")
 # round (total, 2) (we could also use this method but I understood better the top one xD)
 print (f"Total payment for each people is: ${total}") # Using the method of string with float inside of a sentence I think? xD
+
+# You can find the correct solution at : https://replit.com/@appbrewery/tip-calculator-end
