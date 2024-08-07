@@ -10,7 +10,6 @@
 
 # The BMI is calculated by dividing a person's weight (in kg) by the square of their height (in m):
 
-
 # Important: you do not need to round the result to the nearest whole number. 
 # It's fine to print out a floating point number for this exercise. 
 # The interpretation message needs to include the words from the interpretations above. 
